@@ -25,4 +25,4 @@ for num in range(0,127):
 			count = 0
 			char = 0
 	print(text)
-	text = 
+	text = ''
